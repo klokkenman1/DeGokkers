@@ -175,3 +175,9 @@ C:\Users\Kelvin\Desktop\20150304-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\De
 C:\Users\Kelvin\Desktop\20150304-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.csproj.GenerateResource.Cache
 C:\Users\Kelvin\Desktop\20150304-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Components.FinishedAnimal.resources
 C:\Users\Kelvin\Desktop\20150304-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Forms.ScoreWindow.resources
+C:\Users\Kelvin\Documents\GitHub\DeGokkers\20150209-PS-DeGokkers\bin\Debug\DeGokkers.exe.config
+C:\Users\Kelvin\Documents\GitHub\DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.exe
+C:\Users\Kelvin\Documents\GitHub\DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.pdb
+C:\Users\Kelvin\Documents\GitHub\DeGokkers\DeGokkers\bin\Debug\DeGokkers.exe.config
+C:\Users\Kelvin\Documents\GitHub\DeGokkers\DeGokkers\obj\Debug\DeGokkers.exe
+C:\Users\Kelvin\Documents\GitHub\DeGokkers\DeGokkers\obj\Debug\DeGokkers.pdb

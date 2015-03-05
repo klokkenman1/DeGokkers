@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeGokkers", "20150209-PS-DeGokkers\DeGokkers.csproj", "{C0877F47-A85C-4731-886B-BDE645D22081}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeGokkers", "DeGokkers\DeGokkers.csproj", "{C0877F47-A85C-4731-886B-BDE645D22081}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
