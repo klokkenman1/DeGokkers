@@ -1,0 +1,177 @@
+C:\Users\TheJjokerR\Desktop\Studie\Radius College\Projects\p2\20150209-PS-DeGokkers\20150209-PS-DeGokkers\bin\Debug\DeGokkers.exe.config
+C:\Users\TheJjokerR\Desktop\Studie\Radius College\Projects\p2\20150209-PS-DeGokkers\20150209-PS-DeGokkers\bin\Debug\DeGokkers.exe
+C:\Users\TheJjokerR\Desktop\Studie\Radius College\Projects\p2\20150209-PS-DeGokkers\20150209-PS-DeGokkers\bin\Debug\DeGokkers.pdb
+C:\Users\TheJjokerR\Desktop\Studie\Radius College\Projects\p2\20150209-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Components.BetEntry.resources
+C:\Users\TheJjokerR\Desktop\Studie\Radius College\Projects\p2\20150209-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Components.AnimalPackSelection.resources
+C:\Users\TheJjokerR\Desktop\Studie\Radius College\Projects\p2\20150209-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Components.UserEntry.resources
+C:\Users\TheJjokerR\Desktop\Studie\Radius College\Projects\p2\20150209-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Forms.MainWindow.resources
+C:\Users\TheJjokerR\Desktop\Studie\Radius College\Projects\p2\20150209-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Properties.Resources.resources
+C:\Users\TheJjokerR\Desktop\Studie\Radius College\Projects\p2\20150209-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.UserWindow.resources
+C:\Users\TheJjokerR\Desktop\Studie\Radius College\Projects\p2\20150209-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.csproj.GenerateResource.Cache
+C:\Users\TheJjokerR\Desktop\Studie\Radius College\Projects\p2\20150209-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.exe
+C:\Users\TheJjokerR\Desktop\Studie\Radius College\Projects\p2\20150209-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.pdb
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150209-PS-DeGokkers\20150209-PS-DeGokkers\bin\Debug\DeGokkers.exe.config
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150209-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.exe
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150209-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.pdb
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150209-PS-DeGokkers\20150209-PS-DeGokkers\bin\Debug\DeGokkers.exe
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150209-PS-DeGokkers\20150209-PS-DeGokkers\bin\Debug\DeGokkers.pdb
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150209-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.csprojResolveAssemblyReference.cache
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150209-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Components.BetEntry.resources
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150209-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Components.AnimalPackSelection.resources
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150209-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Components.UserEntry.resources
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150209-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Forms.MainWindow.resources
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150209-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Properties.Resources.resources
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150209-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.UserWindow.resources
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150209-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.csproj.GenerateResource.Cache
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150209-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Components.BetDisplay.resources
+C:\Users\Thom\Desktop\20150209-PS-DeGokkers\20150209-PS-DeGokkers\bin\Debug\DeGokkers.exe.config
+C:\Users\Thom\Desktop\20150209-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.exe
+C:\Users\Thom\Desktop\20150209-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.pdb
+C:\Users\Thom\Desktop\20150209-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.csprojResolveAssemblyReference.cache
+C:\Users\Thom\Desktop\20150209-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Components.BetDisplay.resources
+C:\Users\Thom\Desktop\20150209-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Components.BetEntry.resources
+C:\Users\Thom\Desktop\20150209-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Components.AnimalPackSelection.resources
+C:\Users\Thom\Desktop\20150209-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Components.UserEntry.resources
+C:\Users\Thom\Desktop\20150209-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Forms.MainWindow.resources
+C:\Users\Thom\Desktop\20150209-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Properties.Resources.resources
+C:\Users\Thom\Desktop\20150209-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.UserWindow.resources
+C:\Users\Thom\Desktop\20150209-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.csproj.GenerateResource.Cache
+C:\Users\Thom\Desktop\20150209-PS-DeGokkers\20150209-PS-DeGokkers\bin\Debug\DeGokkers.exe
+C:\Users\Thom\Desktop\20150209-PS-DeGokkers\20150209-PS-DeGokkers\bin\Debug\DeGokkers.pdb
+C:\Users\Thom\Desktop\20150209-PS-DeGokkers(1)\20150209-PS-DeGokkers\bin\Debug\DeGokkers.exe.config
+C:\Users\Thom\Desktop\20150209-PS-DeGokkers(1)\20150209-PS-DeGokkers\obj\Debug\DeGokkers.exe
+C:\Users\Thom\Desktop\20150209-PS-DeGokkers(1)\20150209-PS-DeGokkers\obj\Debug\DeGokkers.pdb
+C:\Users\Thom\Desktop\20150209-PS-DeGokkers(1)\20150209-PS-DeGokkers\bin\Debug\DeGokkers.exe
+C:\Users\Thom\Desktop\20150209-PS-DeGokkers(1)\20150209-PS-DeGokkers\bin\Debug\DeGokkers.pdb
+C:\Users\Thom\Desktop\20150209-PS-DeGokkers(1)\20150209-PS-DeGokkers\obj\Debug\DeGokkers.csprojResolveAssemblyReference.cache
+C:\Users\Thom\Desktop\20150209-PS-DeGokkers(1)\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Components.BetDisplay.resources
+C:\Users\Thom\Desktop\20150209-PS-DeGokkers(1)\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Components.BetEntry.resources
+C:\Users\Thom\Desktop\20150209-PS-DeGokkers(1)\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Components.AnimalPackSelection.resources
+C:\Users\Thom\Desktop\20150209-PS-DeGokkers(1)\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Components.UserEntry.resources
+C:\Users\Thom\Desktop\20150209-PS-DeGokkers(1)\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Forms.MainWindow.resources
+C:\Users\Thom\Desktop\20150209-PS-DeGokkers(1)\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Properties.Resources.resources
+C:\Users\Thom\Desktop\20150209-PS-DeGokkers(1)\20150209-PS-DeGokkers\obj\Debug\DeGokkers.UserWindow.resources
+C:\Users\Thom\Desktop\20150209-PS-DeGokkers(1)\20150209-PS-DeGokkers\obj\Debug\DeGokkers.csproj.GenerateResource.Cache
+D:\Projects\Windows Applications\Study\Radius College\Year 1\P3\20150224-PS-DeGokkers\20150209-PS-DeGokkers\bin\Debug\DeGokkers.exe.config
+D:\Projects\Windows Applications\Study\Radius College\Year 1\P3\20150224-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.exe
+D:\Projects\Windows Applications\Study\Radius College\Year 1\P3\20150224-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.pdb
+D:\Projects\Windows Applications\Study\Radius College\Year 1\P3\20150224-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.csprojResolveAssemblyReference.cache
+D:\Projects\Windows Applications\Study\Radius College\Year 1\P3\20150224-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Components.BetDisplay.resources
+D:\Projects\Windows Applications\Study\Radius College\Year 1\P3\20150224-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Components.BetEntry.resources
+D:\Projects\Windows Applications\Study\Radius College\Year 1\P3\20150224-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Components.AnimalPackSelection.resources
+D:\Projects\Windows Applications\Study\Radius College\Year 1\P3\20150224-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Components.UserEntry.resources
+D:\Projects\Windows Applications\Study\Radius College\Year 1\P3\20150224-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Forms.MainWindow.resources
+D:\Projects\Windows Applications\Study\Radius College\Year 1\P3\20150224-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Properties.Resources.resources
+D:\Projects\Windows Applications\Study\Radius College\Year 1\P3\20150224-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.UserWindow.resources
+D:\Projects\Windows Applications\Study\Radius College\Year 1\P3\20150224-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.csproj.GenerateResource.Cache
+D:\Projects\Windows Applications\Study\Radius College\Year 1\P3\20150224-PS-DeGokkers\20150209-PS-DeGokkers\bin\Debug\DeGokkers.exe
+D:\Projects\Windows Applications\Study\Radius College\Year 1\P3\20150224-PS-DeGokkers\20150209-PS-DeGokkers\bin\Debug\DeGokkers.pdb
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150224-PS-DeGokkers\20150209-PS-DeGokkers\bin\Debug\DeGokkers.exe.config
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150224-PS-DeGokkers\20150209-PS-DeGokkers\bin\Debug\DeGokkers.exe
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150224-PS-DeGokkers\20150209-PS-DeGokkers\bin\Debug\DeGokkers.pdb
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150224-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Components.BetDisplay.resources
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150224-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Components.BetEntry.resources
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150224-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Components.AnimalPackSelection.resources
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150224-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Components.UserEntry.resources
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150224-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Forms.MainWindow.resources
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150224-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Properties.Resources.resources
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150224-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.UserWindow.resources
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150224-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.csproj.GenerateResource.Cache
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150224-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.exe
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150224-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.pdb
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150302-PS-DeGokkers\20150209-PS-DeGokkers\bin\Debug\DeGokkers.exe.config
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150302-PS-DeGokkers\20150209-PS-DeGokkers\bin\Debug\DeGokkers.exe
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150302-PS-DeGokkers\20150209-PS-DeGokkers\bin\Debug\DeGokkers.pdb
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150302-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Components.BetDisplay.resources
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150302-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Components.BetEntry.resources
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150302-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Components.AnimalPackSelection.resources
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150302-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Components.UserEntry.resources
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150302-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Forms.MainWindow.resources
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150302-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Properties.Resources.resources
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150302-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.UserWindow.resources
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150302-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.csproj.GenerateResource.Cache
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150302-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.exe
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150302-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.pdb
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150302-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.csprojResolveAssemblyReference.cache
+D:\Dropbox\APO 3.1 De Gokkers\Projects\20150302-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Components.BetDisplay.resources
+D:\Dropbox\APO 3.1 De Gokkers\Projects\20150302-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Components.BetEntry.resources
+D:\Dropbox\APO 3.1 De Gokkers\Projects\20150302-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Components.AnimalPackSelection.resources
+D:\Dropbox\APO 3.1 De Gokkers\Projects\20150302-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Components.UserEntry.resources
+D:\Dropbox\APO 3.1 De Gokkers\Projects\20150302-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Forms.MainWindow.resources
+D:\Dropbox\APO 3.1 De Gokkers\Projects\20150302-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Properties.Resources.resources
+D:\Dropbox\APO 3.1 De Gokkers\Projects\20150302-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.UserWindow.resources
+D:\Dropbox\APO 3.1 De Gokkers\Projects\20150302-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.csproj.GenerateResource.Cache
+D:\Projects\Windows Applications\Study\Radius College\Year 1\P3\20150302-PS-DeGokkers\20150209-PS-DeGokkers\bin\Debug\DeGokkers.exe.config
+D:\Projects\Windows Applications\Study\Radius College\Year 1\P3\20150302-PS-DeGokkers\20150209-PS-DeGokkers\bin\Debug\DeGokkers.exe
+D:\Projects\Windows Applications\Study\Radius College\Year 1\P3\20150302-PS-DeGokkers\20150209-PS-DeGokkers\bin\Debug\DeGokkers.pdb
+D:\Projects\Windows Applications\Study\Radius College\Year 1\P3\20150302-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Components.BetDisplay.resources
+D:\Projects\Windows Applications\Study\Radius College\Year 1\P3\20150302-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Components.BetEntry.resources
+D:\Projects\Windows Applications\Study\Radius College\Year 1\P3\20150302-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Components.AnimalPackSelection.resources
+D:\Projects\Windows Applications\Study\Radius College\Year 1\P3\20150302-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Components.UserEntry.resources
+D:\Projects\Windows Applications\Study\Radius College\Year 1\P3\20150302-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Forms.MainWindow.resources
+D:\Projects\Windows Applications\Study\Radius College\Year 1\P3\20150302-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Properties.Resources.resources
+D:\Projects\Windows Applications\Study\Radius College\Year 1\P3\20150302-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.UserWindow.resources
+D:\Projects\Windows Applications\Study\Radius College\Year 1\P3\20150302-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.csproj.GenerateResource.Cache
+D:\Projects\Windows Applications\Study\Radius College\Year 1\P3\20150302-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.exe
+D:\Projects\Windows Applications\Study\Radius College\Year 1\P3\20150302-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.pdb
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150303-PS-DeGokkers\20150209-PS-DeGokkers\bin\Debug\DeGokkers.exe.config
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150303-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.exe
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150303-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.pdb
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150303-PS-DeGokkers\20150209-PS-DeGokkers\bin\Debug\DeGokkers.exe
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150303-PS-DeGokkers\20150209-PS-DeGokkers\bin\Debug\DeGokkers.pdb
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150303-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.csprojResolveAssemblyReference.cache
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150303-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Components.BetDisplay.resources
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150303-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Components.BetEntry.resources
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150303-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Components.AnimalPackSelection.resources
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150303-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Components.UserEntry.resources
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150303-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Forms.MainWindow.resources
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150303-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Properties.Resources.resources
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150303-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.UserWindow.resources
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150303-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.csproj.GenerateResource.Cache
+D:\Projects\Windows Applications\Study\Radius College\Year 1\P3\20150304-PS-DeGokkers\20150209-PS-DeGokkers\bin\Debug\DeGokkers.exe.config
+D:\Projects\Windows Applications\Study\Radius College\Year 1\P3\20150304-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.exe
+D:\Projects\Windows Applications\Study\Radius College\Year 1\P3\20150304-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.pdb
+D:\Projects\Windows Applications\Study\Radius College\Year 1\P3\20150304-PS-DeGokkers\20150209-PS-DeGokkers\bin\Debug\DeGokkers.exe
+D:\Projects\Windows Applications\Study\Radius College\Year 1\P3\20150304-PS-DeGokkers\20150209-PS-DeGokkers\bin\Debug\DeGokkers.pdb
+D:\Projects\Windows Applications\Study\Radius College\Year 1\P3\20150304-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.csprojResolveAssemblyReference.cache
+D:\Projects\Windows Applications\Study\Radius College\Year 1\P3\20150304-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Components.BetDisplay.resources
+D:\Projects\Windows Applications\Study\Radius College\Year 1\P3\20150304-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Components.BetEntry.resources
+D:\Projects\Windows Applications\Study\Radius College\Year 1\P3\20150304-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Components.AnimalPackSelection.resources
+D:\Projects\Windows Applications\Study\Radius College\Year 1\P3\20150304-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Components.UserEntry.resources
+D:\Projects\Windows Applications\Study\Radius College\Year 1\P3\20150304-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Forms.MainWindow.resources
+D:\Projects\Windows Applications\Study\Radius College\Year 1\P3\20150304-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Properties.Resources.resources
+D:\Projects\Windows Applications\Study\Radius College\Year 1\P3\20150304-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.UserWindow.resources
+D:\Projects\Windows Applications\Study\Radius College\Year 1\P3\20150304-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.csproj.GenerateResource.Cache
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150304-PS-DeGokkers\20150209-PS-DeGokkers\bin\Debug\DeGokkers.exe.config
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150304-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.exe
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150304-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.pdb
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150304-PS-DeGokkers\20150209-PS-DeGokkers\bin\Debug\DeGokkers.exe
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150304-PS-DeGokkers\20150209-PS-DeGokkers\bin\Debug\DeGokkers.pdb
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150304-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.csprojResolveAssemblyReference.cache
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150304-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Components.BetDisplay.resources
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150304-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Components.BetEntry.resources
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150304-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Components.AnimalPackSelection.resources
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150304-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Components.UserEntry.resources
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150304-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Forms.MainWindow.resources
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150304-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Properties.Resources.resources
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150304-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.UserWindow.resources
+C:\Users\Kelvin\Dropbox\APO 3.1 De Gokkers\Projects\20150304-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.csproj.GenerateResource.Cache
+D:\Dropbox\APO 3.1 De Gokkers\Projects\20150304-PS-DeGokkers\20150209-PS-DeGokkers\bin\Debug\DeGokkers.exe.config
+D:\Dropbox\APO 3.1 De Gokkers\Projects\20150304-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.exe
+D:\Dropbox\APO 3.1 De Gokkers\Projects\20150304-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.pdb
+C:\Users\Kelvin\Desktop\20150304-PS-DeGokkers\20150209-PS-DeGokkers\bin\Debug\DeGokkers.exe.config
+C:\Users\Kelvin\Desktop\20150304-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.exe
+C:\Users\Kelvin\Desktop\20150304-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.pdb
+C:\Users\Kelvin\Desktop\20150304-PS-DeGokkers\20150209-PS-DeGokkers\bin\Debug\DeGokkers.exe
+C:\Users\Kelvin\Desktop\20150304-PS-DeGokkers\20150209-PS-DeGokkers\bin\Debug\DeGokkers.pdb
+C:\Users\Kelvin\Desktop\20150304-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.csprojResolveAssemblyReference.cache
+C:\Users\Kelvin\Desktop\20150304-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Components.BetDisplay.resources
+C:\Users\Kelvin\Desktop\20150304-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Components.BetEntry.resources
+C:\Users\Kelvin\Desktop\20150304-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Components.AnimalPackSelection.resources
+C:\Users\Kelvin\Desktop\20150304-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Components.UserEntry.resources
+C:\Users\Kelvin\Desktop\20150304-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Forms.MainWindow.resources
+C:\Users\Kelvin\Desktop\20150304-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Properties.Resources.resources
+C:\Users\Kelvin\Desktop\20150304-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.UserWindow.resources
+C:\Users\Kelvin\Desktop\20150304-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.csproj.GenerateResource.Cache
+C:\Users\Kelvin\Desktop\20150304-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Components.FinishedAnimal.resources
+C:\Users\Kelvin\Desktop\20150304-PS-DeGokkers\20150209-PS-DeGokkers\obj\Debug\DeGokkers.Forms.ScoreWindow.resources

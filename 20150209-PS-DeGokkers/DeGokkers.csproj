@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C0877F47-A85C-4731-886B-BDE645D22081}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DeGokkers</RootNamespace>
+    <AssemblyName>DeGokkers</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\Animal.cs" />
+    <Compile Include="Classes\Bet.cs" />
+    <Compile Include="Classes\LangResource.cs" />
+    <Compile Include="Classes\Ostrich.cs" />
+    <Compile Include="Components\BetDisplay.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Components\BetDisplay.Designer.cs">
+      <DependentUpon>BetDisplay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Components\BetEntry.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Components\BetEntry.Designer.cs">
+      <DependentUpon>BetEntry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Components\AnimalPackSelection.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Components\AnimalPackSelection.Designer.cs">
+      <DependentUpon>AnimalPackSelection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Components\FinishedAnimal.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Components\FinishedAnimal.Designer.cs">
+      <DependentUpon>FinishedAnimal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Components\UserEntry.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Components\UserEntry.Designer.cs">
+      <DependentUpon>UserEntry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Extensions\Timer.cs" />
+    <Compile Include="Forms\MainWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MainWindow.Designer.cs">
+      <DependentUpon>MainWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ScoreWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ScoreWindow.Designer.cs">
+      <DependentUpon>ScoreWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SettingsWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SettingsWindow.Designer.cs">
+      <DependentUpon>SettingsWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\Greyhound.cs" />
+    <Compile Include="Classes\Guy.cs" />
+    <Compile Include="Interfaces\UserAddRemove.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Classes\Racetrack.cs" />
+    <EmbeddedResource Include="Components\BetDisplay.resx">
+      <DependentUpon>BetDisplay.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Components\BetEntry.resx">
+      <DependentUpon>BetEntry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Components\AnimalPackSelection.resx">
+      <DependentUpon>AnimalPackSelection.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Components\FinishedAnimal.resx">
+      <DependentUpon>FinishedAnimal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Components\UserEntry.resx">
+      <DependentUpon>UserEntry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MainWindow.resx">
+      <DependentUpon>MainWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ScoreWindow.resx">
+      <DependentUpon>ScoreWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SettingsWindow.resx">
+      <DependentUpon>SettingsWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\card_greyhound.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\card_animal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\checkered-flags.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\card_ostrich.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ball.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GrassBackground.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Greyhound%28borderless%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Greyhound%28Small%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GreyHound.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GreyHound1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\front-greyrun.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dog1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dog2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dog3.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dog4.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dog2_still.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dog3_still.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dog4_still.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background_dogtrackpng.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
